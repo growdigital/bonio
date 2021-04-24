@@ -1,4 +1,4 @@
-# Bonio Hugo barebones skeleton
+# Bonio — Hugo barebones skeleton site
 
 NB: **NOT READY YET!**
 
