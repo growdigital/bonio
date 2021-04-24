@@ -1,0 +1,8 @@
+name: gobonio
+license: (MIT OR GPL-3.0)
+licenselink: https://github.com/growdigital/bonio/themes/gobonio/blob/master/LICENSE.md
+description: Hugo barebones theme
+homepage: https://bonio.grwd.uk/
+author:
+  name: Jake Rayson
+  homepage: natureworks.org.uk
