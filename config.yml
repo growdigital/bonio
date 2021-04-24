@@ -1,3 +1,4 @@
-baseURL = https://bonio.grwd.uk/
-languageCode = "en-GB"
-title = Bonio Hugo barebones starter site
+baseURL: https://bonio.grwd.uk/
+languageCode: "en-GB"
+title: Bonio Hugo barebones starter site
+theme: gobonio
