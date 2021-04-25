@@ -1,7 +1,5 @@
 # Bonio — Hugo barebones skeleton site
 
-NB: **NOT READY YET!**
-
 ## About
 
 [Hugo](http://gohugo.io) is a fantastic Static Site Generator. This is a the barest of Hugo sites, including a theme called `gobonio`, to help beginners see where all the moving (sic) parts are.
